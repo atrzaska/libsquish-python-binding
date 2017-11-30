@@ -1,0 +1,6 @@
+*.cpp
+/build
+/pip
+.envrc
+*.so
+*.dll
